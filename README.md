@@ -50,7 +50,7 @@ one-bite-books-app-router
 
 Frontend
 
-- 배포 예정
+- https://one-bite-books-app-six.vercel.app/
 
 ---
 
